@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Web Applications
+- 🔭 I’m currently working on Web Applications and exploring Distributed Systems
 - 🌱 I’m currently learning about Personal Finance
 - 📫 Reach out to me on [LinkedIn](https://in.linkedin.com/in/s-dhanya-abhirami)
 - I love [Reading](https://www.goodreads.com/user/show/127164045-dhanyaabhirami)
