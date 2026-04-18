@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently learning about business, strategy and big picture thinking
-- 🌱 I’m currently learning about Personal Finance
+- 🌱 I’m vibe coding fun AI agents
 - 📫 Reach out to me on [LinkedIn](https://in.linkedin.com/in/s-dhanya-abhirami)
 - I love [Reading](https://www.goodreads.com/user/show/127164045-dhanyaabhirami) and [Writing](https://dhanyaabhirami.substack.com/)
 
