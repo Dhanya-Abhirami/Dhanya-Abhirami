@@ -1,11 +1,29 @@
-### Hi there 👋
-- 🔭 I’m currently learning about business, strategy and big picture thinking
-- 🌱 I’m vibe coding fun AI agents
-- 📫 Reach out to me on [LinkedIn](https://in.linkedin.com/in/s-dhanya-abhirami)
-- I love [Reading](https://www.goodreads.com/user/show/127164045-dhanyaabhirami) and [Writing](https://serendipitypersqft.substack.com/)
+## Hi there 👋 I’m Dhanya
 
+I’m a software engineer transitioning into product management. I am passionate about building products that solve real user problems and scale with clarity.
+* 🔭 Currently focused on: Product strategy, user research, and business thinking
+* 🌱 Building: AI-driven tools and agents with a product-first mindset (problem → solution → impact)
+* 💡 Interested in: 0→1 products, climate tech, tech-for-good, and systems that create meaningful change
+* 🧠 What I bring:
+  * Strong technical foundation to collaborate deeply with engineering
+  * Structured thinking around product decisions and trade-offs
+  * Curiosity for user behavior, markets, and business models
 <!--
-[![Dhanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanya-Abhirami&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠 Featured Work
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanya-Abhirami&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
---!>
+(This section is important—add 2–3 projects framed like mini product case studies)
+
+AI Agent Experiments
+Built and iterated on AI agents with a focus on real-world usability, not just functionality
+→ Defined use cases, tested workflows, and improved based on feedback
+[Add Project Name]
+Problem: ___
+Approach: ___
+Outcome: ___
+-->
+## ✍️ Check my newsletter
+* I write about life and reflection → [Serendipity per Sq Ft](https://serendipitypersqft.substack.com/)
+* I explore climate & finance → [eArthaX](https://earthax.substack.com/)
+
+## 📫 Let’s connect
+[LinkedIn](https://in.linkedin.com/in/s-dhanya-abhirami)
